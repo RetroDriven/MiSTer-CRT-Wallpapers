@@ -3,7 +3,7 @@ The purpose of this Script to to aid in Downloading the Amazing Collection of Mi
 
 # Updater Script Download
 
-<a href="https://github.com/RetroDriven/MiSTer-CRT-Wallpapers/releases/download/1.0/MiSTer.Wallpapers.v1.0.zip"> Script Updater Download </a>
+<a href="https://github.com/RetroDriven/MiSTer-CRT-Wallpapers/releases/download/1.0/MiSTer-CRT-Wallpapers.zip"> Script Updater Download </a>
 
 ## Script Usage ##
 * Download the ZIP file above and Extract/Copy <b>Update_MiSTerWallpapers.sh</b> and <b>Update_MiSTerWallpapers.ini</b> to your Scripts Folder on your MiSTer SD Card(/media/fat/Scripts)

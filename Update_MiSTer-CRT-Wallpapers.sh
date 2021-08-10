@@ -22,7 +22,7 @@
 
 # ========= OPTIONS ==================
 URL="https://github.com"
-SCRIPT_URL="${URL}/RetroDriven/MiSTer-CRT-Wallpapers/blob/master/Scripts/Updater_MiSTer-CRT-Wallpapers.sh"
+SCRIPT_URL="${URL}/RetroDriven/MiSTer-CRT-Wallpapers/blob/main/Scripts/Updater_MiSTer-CRT-Wallpapers.sh"
 CURL_RETRY="--connect-timeout 15 --max-time 120 --retry 3 --retry-delay 5 --silent"
 
 # ========= ADVANCED OPTIONS =========
